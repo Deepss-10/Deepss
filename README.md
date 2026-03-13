@@ -37,18 +37,4 @@ Small UI components and React exercises for skill improvement.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-
----
-
-## 🌱 Learning Goal
-
-To become a confident **Full Stack Developer** and build real-world scalable applications.
-
----
-
 ⭐ Thank you for visiting my profile!
