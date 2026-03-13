@@ -28,7 +28,7 @@ I am in the learning process and continuously upgrading my skills 📈
 A responsive personal portfolio built using React.
 
 ### 🔹 HRMS Q/A
-Dashboard improvements, navigation logic, and feature-based task structure.
+I have created a structured Q/A documentation and Tested for the HRMS system to clearly explain and smooth functionality of its features, workflow, and functionality.
 
 ### 🔹 Practice Projects  
 Small UI components and React exercises for skill improvement.
