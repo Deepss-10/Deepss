@@ -5,7 +5,7 @@
 
 ## 🧾 About Me
 
-I am a **beginner React learner** currently improving my frontend development skills.  
+I am a **beginner** currently improving my frontend development skills.  
 I focus on writing clean, structured, and maintainable code.
 
 I am not a professional developer yet —  
@@ -19,7 +19,6 @@ I am in the learning process and continuously upgrading my skills 📈
 - CSS
 - JavaScript (Basics)  
 - React (Learning)
-
 ---
 
 ## 🚀 Projects
